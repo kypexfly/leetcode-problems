@@ -1,7 +1,7 @@
 import { describe, expect, it } from "vitest";
 import { containsDuplicate } from "../problems/217_contains_duplicate";
 
-describe("contains duplicate function", () => {
+describe("containsDuplicate function", () => {
   const testCases = [
     {
       nums: [1, 2, 3, 1],

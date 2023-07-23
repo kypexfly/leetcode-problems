@@ -2,7 +2,7 @@ import { describe, expect } from "vitest";
 import { isAnagram } from "../problems/242_valid_anagram";
 import { it } from "vitest";
 
-describe("contains duplicate function", () => {
+describe("isAnagram function", () => {
   const testCases = [
     {
       s: "anagram",
