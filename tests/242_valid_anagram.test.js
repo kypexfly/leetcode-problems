@@ -1,6 +1,5 @@
-import { describe, expect } from "vitest";
+import { describe, expect, it } from "vitest";
 import { isAnagram } from "../problems/242_valid_anagram";
-import { it } from "vitest";
 
 describe("isAnagram function", () => {
   const testCases = [

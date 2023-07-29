@@ -9,8 +9,8 @@ This is a personal repository where I try to solve [Leetcode](https://leetcode.c
 - [x] [Contains Duplicate](/problems/217_contains_duplicate.js)
 - [x] [Valid Anagram](/problems/242_valid_anagram.js)
 - [x] [Two Sum](/problems/01_two_sum.js)
-- [ ] Group Anagrams 	
-- [ ] Top K Frequent Elements 	
+- [x] [Group Anagrams](/problems/49_group_anagrams.js)
+- [x] [Top K Frequent Elements](/problems/347_topKFrequent.js)	
 - [ ] Product of Array Except Self 	
 - [ ] Valid Sudoku 	
 - [ ] Encode and Decode Strings  
